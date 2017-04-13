@@ -4,3 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+consider this place.<br/>
+consider this place as safe.<br/>
+when you take off your throat.<br/>
+lay your voice in the middle of the bed.<br/>
+open your back up to me.
+
+-slow  
+Nayyirah Waheed

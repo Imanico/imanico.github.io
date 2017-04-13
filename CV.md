@@ -1,8 +1,5 @@
 ---
 layout: page
-title: curriculum vitae
-permalink: /cv/
-date: 2017-01-26
 ---
 
 IMANI COOPER
