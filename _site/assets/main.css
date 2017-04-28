@@ -16,9 +16,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 25px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 400 25px/1.5 "Times New Roman", Helvetica, Arial, sans-serif;
   color: #000000;
-  background-color: #fdfdfd;
+  background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -74,11 +74,11 @@ h1 {
  * Links
  */
 a {
-  color: #000000;
-  font-size: 50px
+  color: #ffffff;
+  font-size: 50px,
   text-decoration: none; }
   a:visited {
-    color: #000000; }
+    color: #ffffff; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -155,9 +155,9 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 3px solid #294054;
+  border-top: 3px solid #ffffff;
   border-bottom: 3px solid #e8e8e8;
-  min-height: 350px;
+  min-height: 100px;
   position: relative; }
 
 .site-title {
@@ -168,7 +168,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #ffffff; }
 
 .site-nav {
   float: right;
@@ -185,20 +185,20 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      background-color: #000000;
+      border: 1px solid #ffffff;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
         display: block;
         float: right;
-        width: 36px;
-        height: 26px;
+        width: 50px;
+        height: 20px;
         line-height: 0;
         padding-top: 10px;
         text-align: center; }
         .site-nav .menu-icon > svg path {
-          fill: #424242; }
+          fill: #ffffff; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -295,6 +295,7 @@ pre {
 
 .post-title {
   font-size: 42px;
+  color: #000000
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {

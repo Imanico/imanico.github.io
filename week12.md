@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 
 What do you consider the fundamental criteria for critiquing digital history projects? How much does the traditional peer review model need to change to accommodate new types of historical work/projects?
