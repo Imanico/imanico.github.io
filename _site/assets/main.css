@@ -155,7 +155,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 3px solid #ffffff;
+  border-top: 3px solid #000000;
   border-bottom: 3px solid #e8e8e8;
   min-height: 100px;
   position: relative; }
@@ -168,7 +168,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #ffffff; }
+    color: #000000; }
 
 .site-nav {
   float: right;
@@ -185,8 +185,8 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #000000;
-      border: 1px solid #ffffff;
+      background-color: #ffffff;
+      border: 1px solid #000000;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -198,7 +198,7 @@ pre {
         padding-top: 10px;
         text-align: center; }
         .site-nav .menu-icon > svg path {
-          fill: #ffffff; }
+          fill: #000000; }
       .site-nav .trigger {
         clear: both;
         display: none; }
