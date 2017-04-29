@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+# The Affect of Typography 
 
 <p> This is probably my favorite class topic yet. As a person who is interested in the affect of aesthetics typography is such an interesting medium to think through how someone is experiencing an interface and what is says about the site as well as the designer.Ellen Lupton’s Thinking with Type is insightful,artful and cheeky.The combination of historical background on typography, “how to” attitude  and
 the examples embedded within the visual/reading experience Thinking with Type

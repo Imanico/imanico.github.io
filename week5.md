@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+# Mapping with Google 
+
 The Syllabus was right, mapping with Google Maps is easy and convenient. Although my own research has some curiosities about the inner workings of “place making” maps are not integral to my research. I feel Google Maps is a great entry point into thinking about interactions through and in space from a geographical perspective without being overburdened by the technicalities of geo-space making through data.  
 With that being said, my google map exercise was inspired by previous class readings, in particular week three on digital publishing and the public academic as well as last week’s “What is spatial history?” by Richard White. I used this mapping exercise to think through a spatial CV. By this I mean I am mapping out where I did previous research as an undergraduate- the different institutions and using the tabs to describe the nature of the work I did there. I hope my idea of the spatial CV will first make approaching someone’s work history a little more exciting but also offer a little more information that the regular CV cannot (we will find out through this post). So, I obviously will not do my entire CV but as I said before I will map out the section in my CV that says, “research experience” combining both my experiences as an undergraduate. Here we go…
 

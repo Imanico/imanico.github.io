@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Learning through Networks 
 
 Before this class I did not think much about networks accept as a social phenomena use to gain social mobility through new media or events. This is not to say I did not see relations between people, places, objects and interrelatedness, but I did not know how to visualize these connections especially for academic inquiry. This week I created a network graph on Palladio a digital tool made from Stanford Universities Design + Humanities Lab. As a non-specialist (to say the least) Palladio was not complex to use. The most difficult part of using Palladio was gathering data. Coming from a literature and design background I have never worked with data before so an even more complicated task for me was formulating the kinds of research questions to ask through data making.
 
