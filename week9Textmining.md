@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# What Can text mining tell us about aesthetics?
+# What Can text mining tell us about aesthetics? 
 
 What can text mining tell us about the construction of ---place"? Can we both visualize and textualize information on aesthetics,design and locale?
 

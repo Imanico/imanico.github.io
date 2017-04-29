@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#How to Evaluate Digital Humanities Scolarship? 
+# How to Evaluate Digital Humanities Scolarship? 
 
 Work Work Work! I think the chorus of Rhianna's latest song Work featuring Drake best describes my sentiments towards the necessary criteria for evaluating digital humanities scholarship. I don't mean to insinuate that the evaluators will have extra work to perform, quite the opposite. Taking Digital humanities has one given me clarity on what the digital signifies in digital humanities projects, often times it is an arduous unglamorous process of gathering data and experimental learning. I'd say the most critical component for evaluating digital humanities work is understanding and quantifying the amount of attempts and time spent in trial in error while using digital methodology. For instance, projects that use topic modeling, or QGIS require large datasets and beyond the meticulous process of creating data from text it takes patience to work through the potential setbacks when your data is not correct once uploaded. My own attempts working through QGIS tutorials and the many failed attempts I had to show for my progress was upsetting so much so that I now believe that in digital humanities failure is progress. This does not mean that projects should go incomplete of illegible, but I do think building in a process that measures the failed attempts would be an invaluable part of evaluating digital humanities work. Measuring the various attempts to produce a cogent project could reveal the amount of risks and technical skills the research required, as well as measure a new kind of learning- experiential or exploratory learning.
 
